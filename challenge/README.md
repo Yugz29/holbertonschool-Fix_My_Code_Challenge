@@ -16,3 +16,24 @@ Repo:
 GitHub repository: holbertonschool-Fix_My_Code_Challenge
 Directory: challenge
 File: 0-fizzbuzz.py
+
+---
+
+1. Print square
+Please take a look at my implementation of printing a square in source code
+
+Something is going wrong….
+```
+$ ./1-print_square.js 4
+
+$ ./1-print_square.js 10
+
+$
+```
+./1-print_square.js 10 should print a square of size 10…
+
+Repo:
+
+GitHub repository: holbertonschool-Fix_My_Code_Challenge
+Directory: challenge
+File: 1-print_square.js
